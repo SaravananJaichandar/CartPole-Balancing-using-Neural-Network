@@ -1,6 +1,14 @@
 # CartPole-Balancing-using-Neural-Network
 
 In this repository, we gonna build a simple neural network model to train our AI bot to learn itself to balance the cartpole.
+
+# Before training our Bot
+
+![alt-text](https://github.com/SaravananJaichandar/CartPole-Balancing-using-Neural-Network/blob/master/before.gif)
+
+# After training our Bot
+
+![alt-text](https://github.com/SaravananJaichandar/CartPole-Balancing-using-Neural-Network/blob/master/1_oMSg2_mKguAGKy1C64UFlw.gif)
  
  # Steps involved in building our AI bot :
  
